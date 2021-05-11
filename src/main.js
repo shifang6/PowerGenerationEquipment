@@ -1,7 +1,5 @@
 import Vue from 'vue'
-
 import Cookies from 'js-cookie'
-
 import 'normalize.css/normalize.css' // 一个现代的替代CSS重置
 
 import Element from 'element-ui'
