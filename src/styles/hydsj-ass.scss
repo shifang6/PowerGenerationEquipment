@@ -1,0 +1,712 @@
+.home {
+  &-data {
+    &-inside {
+      &-bottom {
+        &-right {
+          &-box {
+            cursor: pointer;
+            background-color: #F5F5F5 !important;
+            &:hover {
+              background-color: #ECF0FC !important;
+            }
+          }
+        }
+        &-left {
+          &-text {
+            &-box {
+              &-title {
+                &-big {
+                  cursor: pointer;
+                  color: #333 !important;
+                  &:hover {
+                    color: #f56c6c !important;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  &-report {
+    &-inside {
+      &-bottom {
+        &-box {
+          &-img {
+            cursor: pointer;
+            border: 1px solid #ddd !important;
+            &:hover {
+              border: 2px solid #1480C4 !important;
+            }
+          }
+          &-title {
+            cursor: pointer;
+            color: #333 !important;
+            &:hover {
+              color: red !important;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.home {
+  &-data {
+    &-inside {
+      &-lunbo {
+        &-box {
+          &-location {
+            &-title {
+              cursor: pointer;
+              color: #eee !important;
+              &:hover {
+                color: #41AFBD !important;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  &-company {
+    &-inside {
+      &-center {
+        &-fire {
+          &-bot {
+            &-box {
+              cursor: pointer;
+              border: 1px solid #ccc !important;
+              &:hover {
+                border: 2px solid #137FC5 !important;
+              }
+            }
+          }
+        }
+      }
+      &-bottom {
+        &-yanBao {
+          &-top {
+            &-left {
+              cursor: pointer;
+              color: #333 !important;
+              &:hover {
+                color: #f56c6c !important;
+              }
+            }
+          }
+
+          &-bottom {
+            &-box {
+              cursor: pointer;
+              color: #333 !important;
+              &:hover {
+                color: #f56c6c !important;
+              }
+            }
+          }
+        }
+
+        &-gongSiMingLu {
+          &-bottom {
+            &-box {
+              cursor: pointer;
+              color: #ddd !important;
+              &:hover {
+                color: #fff !important;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  &-detail {
+    &-inside {
+      &-cBox {
+        &-contentBox {
+          &-footer {
+            &-bottom {
+              &-box {
+                border: null !important;
+                cursor: pointer;
+                &:hover {
+                  border: 2px solid #1480C4 !important;
+                }
+                &-title {
+                  cursor: pointer;
+                  color: #666 !important;
+                  &:hover {
+                    color: red !important;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+// 报告详情
+.home {
+  &-right {
+    &-bottom {
+      &-box {
+        cursor: pointer;
+        color: #333 !important;
+        &:hover {
+          color: #f56c6c !important;
+        }
+      }
+    }
+  }
+}
+
+// 报告分析
+.home {
+  &-left {
+    &-img {
+      &-bottom {
+        &-box {
+          &-report {
+            cursor: pointer;
+            color: #fff !important;
+            &:hover {
+              color: #fff !important;
+              background-color: black !important;
+            }
+          }
+        }
+      }
+    }
+  }
+  &-right {
+    &-top {
+      &-btn {
+        cursor: pointer;
+        color: #fff !important;
+        &:hover {
+          color: #fff !important;
+          background-color: black !important;
+        }
+      }
+    }
+    &-bottom {
+      &-bottom {
+        &-box {
+          &-title {
+            cursor: pointer;
+            color: #333 !important;
+            &:hover {
+              color: #f56c6c !important;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+// 数据首页
+.home {
+  &-data {
+    &-bottom {
+      &-box {
+        background-color: #fff;
+        &:hover {
+          background-color: #f1f1f1;
+        }
+      }
+    }
+  }
+  &-sd {
+    &-left {
+      &-title {
+        cursor: pointer;
+        color: #333 !important;
+        &:hover {
+          color: #f56c6c !important;
+        }
+      }
+    }
+    &-right {
+      &-title {
+        cursor: pointer;
+        color: #333 !important;
+        &:hover {
+          color: #f56c6c !important;
+        }
+      }
+    }
+  }
+  &-tw {
+    &-left {
+      &-title {
+        cursor: pointer;
+        color: #333 !important;
+        &:hover {
+          color: #f56c6c !important;
+        }
+      }
+    }
+    &-cen {
+      &-title {
+        cursor: pointer;
+        color: #333 !important;
+        &:hover {
+          color: #f56c6c !important;
+        }
+      }
+    }
+    &-rg {
+      &-title {
+        cursor: pointer;
+        color: #333 !important;
+        &:hover {
+          color: #f56c6c !important;
+        }
+      }
+      &-bottom {
+        &-column {
+            cursor: pointer;
+            color: #333 !important;
+            &:hover {
+              color: #f56c6c !important;
+            }
+        }
+      }
+    }
+  }
+
+  &-more {
+    &-title {
+      cursor: pointer;
+      color: #333 !important;
+      &:hover {
+        color: #f56c6c !important;
+      }
+    }
+
+    &-bottom {
+      &-box {
+        cursor: pointer;
+        background-color: #F5F5F5 !important;
+        &:hover {
+          background-color: #ECF0FC !important;
+        }
+      }
+    }
+  }
+}
+
+//报告  热门排行榜
+.home {
+  &-header {
+    &-ce {
+      &-hs {
+        &-rg {
+          cursor: pointer;
+          color: #fff !important;
+          &:hover {
+            color: #f56c6c !important;
+          }
+        }
+      }
+    }
+  }
+
+  &-column {
+    &-box {
+      &-title {
+        &-msg {
+          cursor: pointer;
+          color: #333 !important;
+          &:hover {
+            color: #f56c6c !important;
+          }
+        }
+      }
+      &-bottom {
+        cursor: pointer;
+        color: #333 !important;
+        &:hover {
+          color: #f56c6c !important;
+        }
+      }
+    }
+  }
+
+  &-member {
+    &-title {
+      &-left {
+        cursor: pointer;
+        color: #333 !important;
+        &:hover {
+          color: #f56c6c !important;
+        }
+      }
+      &-right {
+        cursor: pointer;
+        &:hover {
+          color: #f56c6c !important;
+        }
+      }
+    }
+
+    &-bottom {
+      &-box {
+        &-title {
+          cursor: pointer;
+          color: #333 !important;
+          &:hover {
+            color: #f56c6c !important;
+          }
+        }
+      }
+    }
+  }
+  &-mach {
+    &-left {
+      &-title {
+        &-re {
+          cursor: pointer;
+          color: #333 !important;
+          &:hover {
+            color: #f56c6c !important;
+          }
+        }
+        &-you {
+          cursor: pointer;
+          &:hover {
+            color: #f56c6c !important;
+          }
+        }
+      }
+    }
+
+    &-rg {
+      &-box {
+        &-img {
+          cursor: pointer;
+          border: 1px solid #DDDDDD !important;
+          &:hover {
+            border: 2px solid #1480C4 !important;
+          }
+        }
+
+        &-title {
+          cursor: pointer;
+          &:hover {
+            color: #f56c6c !important;
+          }
+        }
+      }
+    }
+    &-rank {
+      &-left {
+        &-num {
+          &-right {
+            cursor: pointer;
+            color: #333 !important;
+            &:hover {
+              color: #f56c6c !important;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  &-news {
+    &-left {
+      &-box {
+        &-title {
+          cursor: pointer;
+          border: null !important;
+          &:hover {
+            border: 2px solid #1480C4 !important;
+          }
+        }
+      }
+    }
+    &-rg {
+      &-title {
+        cursor: pointer;
+        color: #333 !important;
+        &:hover {
+          color: #f56c6c !important;
+        }
+      }
+      &-box {
+        cursor: pointer;
+        border: null !important;
+        &:hover {
+          border: 2px solid #1480C4 !important;
+        }
+      }
+
+      &-box {
+        &-right {
+          cursor: pointer;
+          color: #333 !important;
+          &:hover {
+            color: #f56c6c !important;
+          }
+        }
+      }
+    }
+  }
+}
+
+// 企业研报
+.home {
+  // 上海电气详情页
+  &-chanpin {
+    &-bottom {
+      &-box {
+        &-img {
+          cursor: pointer;
+          border: null !important;
+          &:hover {
+            border: 2px solid red !important;
+          }
+        }
+      }
+    }
+  }
+
+  // 选择报告
+  &-rg {
+    &-box {
+      &-top {
+        &-left {
+          &:hover {
+            cursor: pointer;
+          }
+        }
+        &-right {
+          &-top {
+            cursor: pointer;
+            color: #333 !important;
+            &:hover {
+              color: #f56c6c !important;
+            }
+          }
+        }
+      }
+
+      &-bottom {
+        cursor: pointer;
+        color: #333 !important;
+        &:hover {
+          color: #f56c6c !important;
+        }
+      }
+    }
+  }
+  &-header {
+    &-box {
+      &-bottom {
+        &-rg {
+          cursor: pointer;
+          color: #fff !important;
+          &:hover {
+            color: #f56c6c !important;
+          }
+        }
+      }
+    }
+  }
+  &-column {
+    &-left {
+      &-box {
+        &-bt {
+          cursor: pointer;
+          color: #333 !important;
+          &:hover {
+            color: #f56c6c !important;
+          }
+        }
+        &-ts {
+          cursor: pointer;
+          color: #999 !important;
+          &:hover {
+            color: #f56c6c !important;
+          }
+        }
+      }
+    }
+  }
+  &-guild {
+    &-left {
+      &-box {
+        cursor: pointer;
+        color: #333 !important;
+        &:hover {
+          color: #f56c6c !important;
+        }
+      }
+    }
+  }
+
+  &-query {
+    &-right {
+      &-box {
+        &-title {
+          cursor: pointer;
+          color: #333 !important;
+          &:hover {
+            color: #f56c6c !important;
+          }
+        }
+
+        &-bottom {
+          cursor: pointer;
+          color: #999 !important;
+          &:hover {
+            color: #f56c6c !important;
+          }
+        }
+      }
+    }
+  }
+
+  &-column {
+    &-rg {
+      &-box {
+        &-right {
+          &-title {
+            cursor: pointer;
+            color: #333 !important;
+            &:hover {
+              color: #f56c6c !important;
+            }
+          }
+
+          &-xg {
+            cursor: pointer;
+            color: #333 !important;
+            &:hover {
+              color: #f56c6c !important;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.home {
+  &-jianjie {
+    &-top {
+      &-title {
+        cursor: pointer;
+        color: #333 !important;
+        &:hover {
+          color: #f56c6c !important;
+        }
+      }
+    }
+  }
+
+  &-yanbao {
+    &-bottom {
+      &-box {
+        &-title {
+          cursor: pointer;
+          color: #333 !important;
+          &:hover {
+            color: #f56c6c !important;
+          }
+        }
+      }
+    }
+  }
+
+  &-zixun {
+    &-bottom {
+      &-box {
+        &-title {
+          cursor: pointer;
+          color: #333 !important;
+          &:hover {
+            color: #f56c6c !important;
+          }
+        }
+
+        &-cen {
+          cursor: pointer;
+          color: #333 !important;
+          &:hover {
+            color: #f56c6c !important;
+          }
+        }
+      }
+    }
+  }
+}
+
+.home {
+  &-footer {
+    &-box {
+      &-left {
+        cursor: pointer;
+        color: #203C99 !important;
+        &:hover {
+          color: #f56c6c !important;
+        }
+      }
+      &-rg {
+        cursor: pointer;
+        color: #203C99 !important;
+        &:hover {
+          color: #f56c6c !important;
+        }
+      }
+    }
+    &-right {
+      cursor: pointer;
+      color: #333 !important;
+      &:hover {
+        color: #f56c6c !important;
+      }
+    }
+  }
+}
+
+// 政策
+.home {
+  &-cen {
+    &-left {
+      &-bottom {
+        &-box {
+          &-title {
+            cursor: pointer;
+            color: #333 !important;
+            &:hover {
+              color: #f56c6c !important;
+            }
+          }
+        }
+      }
+    }
+
+    &-rg {
+      &-bottom {
+        &-box {
+          &-right {
+            cursor: pointer;
+            color: #333 !important;
+            &:hover {
+              color: #f56c6c !important;
+            }
+          }
+        }
+      }
+    }
+  }
+}

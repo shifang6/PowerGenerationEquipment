@@ -1,0 +1,32 @@
+table {
+  border: none;
+  border-collapse: collapse;
+  table-layout: fixed;
+  > thead > tr > th,
+  > tbody > tr > td,
+  > tr > th,
+  > tr > td {
+    font-weight: normal;
+    margin: 0;
+    border: 1px solid gainsboro;
+    display: table-cell;
+  }
+  > thead > tr,
+  > tbody > tr,
+  > tr {
+    margin: 0;
+    padding: 0;
+  }
+  //奇数
+  tr td:nth-child(odd){
+    font-size: 13px;
+    padding: 16px 0px;
+    text-align: center;
+  }
+  //奇数
+  tr td:nth-child(even){
+    font-size: 13px;
+    text-align: center;
+    //padding: 10px 0px 10px 8px;
+  }
+}
